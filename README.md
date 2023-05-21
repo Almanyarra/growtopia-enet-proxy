@@ -2,7 +2,8 @@
 
 ## Don't add me in discord for help with compiling/adding feature/some simple thing with proxy or you will get instantly blocked
 
-Anyone using or selling "fixed proxy" is a human failure
+### Anyone using or selling "fixed proxy" is a human failure
+### If you like don't forget to star the repoistory
 
 # By [MegaMini](https://github.com/MegaMini)
 
