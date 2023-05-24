@@ -9,8 +9,12 @@
 
 ## Compile and build in Visual Studio
 
-- Install Vcpkg <a href="https://github.com/microsoft/vcpkg/#quick-start-windows">Click</a>
-- Install Openssl With Vcpkg -> vcpkg install openssl:x64-windows ( i suggest static )
+- Install Vcpkg openssl step by step;
+```
+> git clone https://github.com/microsoft/vcpkg
+> .\vcpkg\bootstrap-vcpkg.bat
+> vcpkg install openssl:x64-windows
+```
 - Reopen Vs,Done.
 
 ## How to use
