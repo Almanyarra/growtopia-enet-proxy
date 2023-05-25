@@ -55,6 +55,7 @@
 - /dropwl [amount]
 - /dropdl [amount]
 - /dropbgl [amount]
+- Auto Tutorial
 
 ## Changelog
 
