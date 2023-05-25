@@ -50,6 +50,11 @@
 - No Shadow Ban
 - Auto Page
 - Auto Solve Capctha
+- Pathfinder
+- /tall (Trade All)
+- /dropwl [amount]
+- /dropdl [amount]
+- /dropbgl [amount]
 
 ## Changelog
 
